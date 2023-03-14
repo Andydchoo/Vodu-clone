@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://ruby-cloudy-springbok.cyclic.app/",
+  "proxy": "https://happy-nightshirt-wasp.cyclic.app",
   "dependencies": {
     "@apollo/client": "^3.3.5",
     "@emotion/react": "^11.5.0",
